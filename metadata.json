@@ -1,0 +1,5 @@
+{
+  "name": "DRA — Super-Intelligent Org App",
+  "description": "A digital-twin assistant that answers questions using only an organization's project files, starting with the iHeart project. It provides answers with citations and structured JSON data, enforcing role-based access control.",
+  "requestFramePermissions": []
+}
